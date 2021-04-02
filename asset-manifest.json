@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/outside-game-site/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/outside-game-site/static/js/main.fcfd0d54.chunk.js",
+    "main.js.map": "/outside-game-site/static/js/main.fcfd0d54.chunk.js.map",
+    "runtime-main.js": "/outside-game-site/static/js/runtime-main.ef02daeb.js",
+    "runtime-main.js.map": "/outside-game-site/static/js/runtime-main.ef02daeb.js.map",
+    "static/js/2.1d27442b.chunk.js": "/outside-game-site/static/js/2.1d27442b.chunk.js",
+    "static/js/2.1d27442b.chunk.js.map": "/outside-game-site/static/js/2.1d27442b.chunk.js.map",
+    "static/js/3.c951d3a8.chunk.js": "/outside-game-site/static/js/3.c951d3a8.chunk.js",
+    "static/js/3.c951d3a8.chunk.js.map": "/outside-game-site/static/js/3.c951d3a8.chunk.js.map",
+    "index.html": "/outside-game-site/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/outside-game-site/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1d27442b.chunk.js.LICENSE.txt": "/outside-game-site/static/js/2.1d27442b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/outside-game-site/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef02daeb.js",
+    "static/js/2.1d27442b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.fcfd0d54.chunk.js"
+  ]
+}
